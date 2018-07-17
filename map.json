@@ -1,0 +1,435 @@
+{
+  "axes": [],
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {
+          "x": "uk",
+          "y": 21363.0
+        },
+        {
+          "x": "canada",
+          "y": 430.0
+        },
+        {
+          "x": "ireland",
+          "y": 254.0
+        },
+        {
+          "x": "india",
+          "y": 774.0
+        },
+        {
+          "x": "malta",
+          "y": 24.0
+        },
+        {
+          "x": "usa",
+          "y": 1616.0
+        },
+        {
+          "x": "pakistan",
+          "y": 118.0
+        },
+        {
+          "x": "south africa",
+          "y": 138.0
+        },
+        {
+          "x": "australia",
+          "y": 374.0
+        },
+        {
+          "x": "nigeria",
+          "y": 37.0
+        },
+        {
+          "x": "isle of man",
+          "y": 4.0
+        },
+        {
+          "x": "romania",
+          "y": 34.0
+        },
+        {
+          "x": "jamaica",
+          "y": 18.0
+        },
+        {
+          "x": "sri lanka",
+          "y": 16.0
+        },
+        {
+          "x": "kenya",
+          "y": 28.0
+        },
+        {
+          "x": "libya",
+          "y": 6.0
+        },
+        {
+          "x": "peru",
+          "y": 4.0
+        },
+        {
+          "x": "brazil",
+          "y": 18.0
+        },
+        {
+          "x": "denmark",
+          "y": 22.0
+        },
+        {
+          "x": "poland",
+          "y": 13.0
+        },
+        {
+          "x": "spain",
+          "y": 40.0
+        },
+        {
+          "x": "gibraltar",
+          "y": 3.0
+        },
+        {
+          "x": "singapore",
+          "y": 31.0
+        },
+        {
+          "x": "lithuania",
+          "y": 6.0
+        },
+        {
+          "x": "bolivia",
+          "y": 2.0
+        },
+        {
+          "x": "china",
+          "y": 8.0
+        },
+        {
+          "x": "serbia",
+          "y": 9.0
+        },
+        {
+          "x": "cura\u00e3\u00a7ao",
+          "y": 3.0
+        },
+        {
+          "x": "korea",
+          "y": 6.0
+        },
+        {
+          "x": "united arab emirates",
+          "y": 53.0
+        },
+        {
+          "x": "bulgaria",
+          "y": 12.0
+        },
+        {
+          "x": "united states",
+          "y": 224.0
+        },
+        {
+          "x": "bangladesh",
+          "y": 31.0
+        },
+        {
+          "x": "guernsey",
+          "y": 2.0
+        },
+        {
+          "x": "hong kong",
+          "y": 11.0
+        },
+        {
+          "x": "syrian arab republic",
+          "y": 7.0
+        },
+        {
+          "x": "azerbaijan",
+          "y": 2.0
+        },
+        {
+          "x": "kuwait",
+          "y": 11.0
+        },
+        {
+          "x": "trinidad and tobago",
+          "y": 20.0
+        },
+        {
+          "x": "new zealand",
+          "y": 73.0
+        },
+        {
+          "x": "cyprus",
+          "y": 14.0
+        },
+        {
+          "x": "iraq",
+          "y": 4.0
+        },
+        {
+          "x": "brunei darussalam",
+          "y": 2.0
+        },
+        {
+          "x": "germany",
+          "y": 40.0
+        },
+        {
+          "x": "latvia",
+          "y": 1.0
+        },
+        {
+          "x": "sweden",
+          "y": 18.0
+        },
+        {
+          "x": "tanzania",
+          "y": 9.0
+        },
+        {
+          "x": "barbados",
+          "y": 3.0
+        },
+        {
+          "x": "france",
+          "y": 34.0
+        },
+        {
+          "x": "egypt",
+          "y": 48.0
+        },
+        {
+          "x": "somalia",
+          "y": 1.0
+        },
+        {
+          "x": "vietnam",
+          "y": 11.0
+        },
+        {
+          "x": "ukraine",
+          "y": 4.0
+        },
+        {
+          "x": "uganda",
+          "y": 3.0
+        },
+        {
+          "x": "iran",
+          "y": 7.0
+        },
+        {
+          "x": "norway",
+          "y": 11.0
+        },
+        {
+          "x": "anguilla",
+          "y": 1.0
+        },
+        {
+          "x": "tuvalu",
+          "y": 1.0
+        },
+        {
+          "x": "el salvador",
+          "y": 1.0
+        },
+        {
+          "x": "austria",
+          "y": 10.0
+        },
+        {
+          "x": "jordan",
+          "y": 8.0
+        },
+        {
+          "x": "jersey",
+          "y": 1.0
+        },
+        {
+          "x": "congo",
+          "y": 1.0
+        },
+        {
+          "x": "cayman islands",
+          "y": 1.0
+        },
+        {
+          "x": "indonesia",
+          "y": 20.0
+        },
+        {
+          "x": "slovakia",
+          "y": 3.0
+        },
+        {
+          "x": "fiji",
+          "y": 3.0
+        },
+        {
+          "x": "philippines",
+          "y": 92.0
+        },
+        {
+          "x": "malaysia",
+          "y": 66.0
+        },
+        {
+          "x": "albania",
+          "y": 6.0
+        },
+        {
+          "x": "netherlands",
+          "y": 25.0
+        },
+        {
+          "x": "virgin islands",
+          "y": 2.0
+        },
+        {
+          "x": "mali",
+          "y": 1.0
+        },
+        {
+          "x": "czech republic",
+          "y": 4.0
+        },
+        {
+          "x": "belgium",
+          "y": 20.0
+        },
+        {
+          "x": "algeria",
+          "y": 3.0
+        },
+        {
+          "x": "swaziland",
+          "y": 1.0
+        },
+        {
+          "x": "nepal",
+          "y": 8.0
+        },
+        {
+          "x": "falkland islands (malvinas)",
+          "y": 1.0
+        },
+        {
+          "x": "myanmar",
+          "y": 5.0
+        },
+        {
+          "x": "finland",
+          "y": 8.0
+        },
+        {
+          "x": "cameroon",
+          "y": 1.0
+        },
+        {
+          "x": "hungary",
+          "y": 8.0
+        },
+        {
+          "x": "greece",
+          "y": 25.0
+        },
+        {
+          "x": "portugal",
+          "y": 19.0
+        },
+        {
+          "x": "saint barth\u00e3\u00a9lemy",
+          "y": 1.0
+        }
+      ]
+    },
+    {
+      "format": {
+        "feature": "world-countries",
+        "type": "topojson"
+      },
+      "name": "countries",
+      "transform": [
+        {
+          "as": "value",
+          "default": "noval",
+          "key": "data.id",
+          "type": "zip",
+          "with": "table",
+          "withKey": "data.x"
+        },
+        {
+          "test": "d.path!='noval' && d.value!='noval'",
+          "type": "filter"
+        },
+        {
+          "projection": "winkel3",
+          "scale": 1100,
+          "translate": [
+            480.0,
+            250.0
+          ],
+          "type": "geopath",
+          "value": "data"
+        }
+      ],
+      "url": "world-countries.json"
+    }
+  ],
+  "height": 500,
+  "legends": [],
+  "marks": [
+    {
+      "from": {
+        "data": "countries"
+      },
+      "properties": {
+        "enter": {
+          "path": {
+            "field": "path"
+          },
+          "stroke": {
+            "value": "#000000"
+          }
+        },
+        "update": {
+          "fill": {
+            "field": "value.data.y",
+            "scale": "color"
+          }
+        }
+      },
+      "type": "path"
+    }
+  ],
+  "padding": "auto",
+  "scales": [
+    {
+      "domain": [
+        1.0,
+        344.0
+      ],
+      "name": "color",
+      "range": [
+        "#f7fcf0",
+        "#e0f3db",
+        "#ccebc5",
+        "#a8ddb5",
+        "#7bccc4",
+        "#4eb3d3",
+        "#2b8cbe",
+        "#0868ac",
+        "#084081"
+      ],
+      "type": "quantize"
+    }
+  ],
+  "width": 960
+}
